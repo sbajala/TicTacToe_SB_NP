@@ -2,6 +2,10 @@
 # Tic Tac Toe
 Classic Tic Tac Toe game using Java Swing graphical user interface.
 
+## Programming language and technologies used
+- Java
+- IntelliJ
+
 ## Point of entry
 
 In the point of entry, we created a view panel that includes 3 components: scoreboard, board, and option buttons. We also create players, a board of coordinates and customed values. Once these are created, we add them to the board arraylist. Finally, we linked the view and model (TicTacToe game) together by using listeners to the buttons and grid. 
