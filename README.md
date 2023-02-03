@@ -1,7 +1,5 @@
 
-TicTacToe Project
-
-by Sharmaine Bajala and Nicolas Perdomo for D04 JAVA I.
+# Tic Tac Toe
 
 
 ## Point of entry
@@ -26,3 +24,6 @@ We decided to display a message on top of the board so that the players know whi
 In terms of the winning conditions, we decided that a win for each board would be an entire row, column, or a diagonal line as we were unsure of the winning conditions for a 4x4 or a 5x5 board.
 
 A last detail we have left would be a message for the Draw condition. We have implemented a message for the winning player but have not implemented a message for a Draw which means the players would have to click on the "play again" button for a new round.
+
+## Credits
+Created by Sharmaine Bajala and [Nicolas Perdomo](https://github.com/nicolasperdomol).
