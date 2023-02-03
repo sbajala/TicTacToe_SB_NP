@@ -10,7 +10,8 @@ The controller essentially links the view and model together. It manages user in
 
 ## Optional functionalities
 
-As optional functionalities, we display players' score and give the users the option to change the board size (3x3 (default), 4x4 or 5x5).
+- We display players' score representing the numbre of rounds they have won.
+- We allow users to select the size of the board (3x3, 4x4 or 5x5). By default, the board is 3x3.
 
 
 ## Improvements made to the game
