@@ -1,6 +1,6 @@
 
 # Tic Tac Toe
-
+Classic Tic Tac Toe game using Java Swing graphical user interface.
 
 ## Point of entry
 
