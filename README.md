@@ -29,5 +29,8 @@ In terms of the winning conditions, we decided that a win for each board would b
 
 A last detail we have left would be a message for the Draw condition. We have implemented a message for the winning player but have not implemented a message for a Draw which means the players would have to click on the "play again" button for a new round.
 
+## Future considerations
+Buttons could be created within a loop which will reduce the number of lines and make the code cleaner and more efficient.
+
 ## Credits
 Created by Sharmaine Bajala and [Nicolas Perdomo](https://github.com/nicolasperdomol).
